@@ -1,4 +1,4 @@
-package project.springs;
+package project.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
