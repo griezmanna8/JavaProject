@@ -17,7 +17,7 @@
 
     <properties>
         <skipTests>true</skipTests>
-        <guava.version>27.0.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <jaxb.version>2.3.0</jaxb.version>
         <javax.version>1.2.0</javax.version>
         <poi.version>4.1.0</poi.version>
